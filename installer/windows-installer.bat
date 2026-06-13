@@ -171,7 +171,7 @@ echo [STEP 4] Downloading files...
 cd /d "%TEMP_DIR%" || exit /b
 
 echo Cloning Natsumi Browser (%NATSUMI_BRANCH%)...
-git clone -b %NATSUMI_BRANCH% --depth 1 --single-branch https://github.com/greeeen-dev/natsumi-browser.git natsumi
+git clone -b %NATSUMI_BRANCH% --depth 1 --single-branch https://github.com/codevadym/natsumi-browser.git natsumi
 if %errorlevel% neq 0 ( 
     echo [ERROR] Git Clone failed. Check if branch '%NATSUMI_BRANCH%' exists and you've installed Git.
     pause 
@@ -179,7 +179,7 @@ if %errorlevel% neq 0 (
 )
 
 echo Cloning FX-AutoConfig...
-git clone https://github.com/greeeen-dev/fx-autoconfig.git fx-autoconfig
+git clone https://github.com/codevadym/fx-autoconfig.git fx-autoconfig
 if %errorlevel% neq 0 ( echo [ERROR] Git Clone failed. & pause & exit /b )
 
 :: --- STEP 5: PROFILE INSTALL ---
