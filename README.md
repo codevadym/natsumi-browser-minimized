@@ -17,7 +17,7 @@
 
 This is a **custom minimized fork** of the original Natsumi Browser skin. To keep the interface as clean and lightweight as possible, several unnecessary items have been completely removed from the menus.
 
-### 🗑️ Removed Items
+### 🗑️ Removed Items (Only Firefox Browser)
 
 **Context Menu (Right-click):**
 - Inspect accessibility properties
