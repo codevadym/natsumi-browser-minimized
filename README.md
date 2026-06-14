@@ -3,13 +3,6 @@
   <img width="420" src="./images/kawaii-pride.png">
 </h1>
 
-<p align="center">
-  Welcome to your <strong>personal</strong> internet.
-</p>
-<h5 align="center">
-  <a href="https://natsumi.greeeen.dev">Website</a> • <a href="https://natsumi.greeeen.dev/discord">Discord</a> • <a href="https://fluxer.gg/natsumi">Fluxer</a>
-</h5>
-
 ![](./images/main-backgroundless.webp)
 ## ⚠️ MODIFICATION: Minimized Version
 
@@ -34,9 +27,13 @@ This is a **custom minimized fork** of the original Natsumi Browser skin. To kee
 - Report broken site
 - Save as...
 - Find in page
-
+<p align="center">
+  Welcome to your <strong>personal</strong> internet.
+</p>
+<h5 align="center">
+  <a href="https://natsumi.greeeen.dev">Website</a> • <a href="https://natsumi.greeeen.dev/discord">Discord</a> • <a href="https://fluxer.gg/natsumi">Fluxer</a>
+</h5>
 ---
-
 ## Meet Natsumi! 🦋
 Meet Natsumi Browser (or Natsumi, for short) - a browser mod that truly puts you in control.
 
