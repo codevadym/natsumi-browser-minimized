@@ -94,5 +94,9 @@ appMenu-save-file-button2 {
 №appMenu-find-button2 {
   display: none !important;
 }
+/*Добавлен отступ как в хром между закладками*/
+#PlacesToolbarItems {
+  gap: 5px;
+}
 
 /* You can import additional mods above, or add your own userchrome CSS below. */
